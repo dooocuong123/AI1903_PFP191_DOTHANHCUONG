@@ -11,7 +11,7 @@ print(f"min = {min_value}")
 print(f"max = {max_value}")
 #2 arrange in ascending order
 sorted_values = sorted([a, b, c])
-print(f"arrange in ascending order{sorted_values}")
+print(f"arrange in ascending order:{sorted_values}")
 
 
 
